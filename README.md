@@ -6,7 +6,7 @@ As a experienced software engineer with expertise in agile methodologies and pro
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Shopify" src="https://img.shields.io/badge/-Shopify-green?style=flat-square&logoColor=white" />
-<img alt="Shopify Plus" src="https://img.shields.io/badge/-Shopify-Plus-green?style=flat-square&logoColor=white" />
+<img alt="Shopify-Plus" src="https://img.shields.io/badge/-Shopify-Plus-green?style=flat-square&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
