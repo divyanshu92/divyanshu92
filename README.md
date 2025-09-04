@@ -27,30 +27,38 @@
 - Front-end development with SCSS, Tailwind CSS, and JavaScript
 - Delivered solutions for diverse client requirements
 
-## 🎯 Core Expertise
+## 🎯 Skills & Expertise
 
-### **🔧 Technical Skills**
-- **Frontend:** Shopify Liquid, ReactJS, VueJS, AlpineJS, JavaScript, HTML5, CSS3
+### **🔧 Frontend Development**
+- **Languages:** JavaScript, HTML5, CSS3, Shopify Liquid
+- **Frameworks:** ReactJS, VueJS, AlpineJS
 - **Styling:** SCSS, Tailwind CSS, Responsive Design
-- **Backend:** PHP, Python, Node.js
-- **APIs:** GraphQL, REST, Shopify API, Salesforce API
-- **Cloud:** AWS Lambda, Firebase
-- **Tools:** Git, Bitbucket, Webpack 5, Gulp
+- **Build Tools:** Webpack 5, Gulp, Vite
+
+### **⚙️ Backend Development**
+- **Languages:** PHP, Python, Node.js
+- **APIs:** GraphQL, REST API Development
+- **Cloud Services:** AWS Lambda, Firebase
+- **Databases:** MySQL, MongoDB
+
+### **🛒 eCommerce Platforms**
+- **Shopify:** Liquid, Plus, Custom Apps, Themes
+- **Shopify APIs:** Admin API, Storefront API, GraphQL
+- **Headless Commerce:** JAMstack, API-first architecture
+- **Payment Gateways:** Stripe, PayPal, Authorize.net
 
 ### **🏢 Enterprise Integrations**
 - **CRM Systems:** Salesforce, HubSpot, Zendesk
-- **ERP Systems:** Microsoft D365
+- **ERP Systems:** Microsoft Dynamics 365
 - **CPQ Solutions:** Conga CPQ
-- **Marketing Automation:** Marketo, Bloomreach, Attentive
+- **Marketing Tools:** Marketo, Bloomreach, Attentive
 - **Loyalty Programs:** Antavo, FriendBuy
 
-### **🛒 eCommerce Specializations**
-- Shopify Plus Development
-- Headless Commerce Solutions
-- B2B/B2C Custom Checkout Flows
-- Inventory Management Systems
-- Payment Gateway Integrations
-- Custom App Development
+### **🔧 Development Tools**
+- **Version Control:** Git, Bitbucket, GitHub
+- **Development:** VS Code, Shopify CLI
+- **Testing:** Jest, Cypress
+- **Deployment:** CI/CD, Docker
 
 <h3>🛠️ Tech Stack</h3>
 <p>
@@ -66,86 +74,7 @@
 <img alt="Salesforce" src="https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
 </p>
 
-## 🏗️ Featured Projects
 
-### 🎯 **FranklinCovey Shopify Integration** (Enterprise)
-**Technologies:** Shopify Plus, Salesforce, D365, Conga CPQ, Zendesk
-- **Objective:** Multi-platform integration for enhanced inventory management and order processing
-- **Key Features:**
-  - Seamless data synchronization across all platforms
-  - Dynamic metafields for company/customer data
-  - Custom B2B checkout with Purchase Order support
-  - Automated invoicing and return workflows
-  - Member-only product access and gated content
-- **Impact:** Streamlined operations, reduced manual processing, improved customer experience
-
-### 🌊 **Olukai Website Development**
-**Technologies:** Shopify Liquid, JavaScript, SCSS, Gulp, Bloomreach, Reviews.io, Antavo
-- Enhanced user experience through first-party data strategy
-- Integrated loyalty programs and personalization tools
-- Improved customer engagement and retention
-
-### 👓 **Kaenon Website Development**
-**Technologies:** Shopify Plus, Tailwind CSS, Webpack 5
-- Custom theme with unique collection pages
-- Estimated shipping dates and address verification
-- Enhanced navigation and customer interaction
-
-### 🏄 **Roark Website Development**
-**Technologies:** Shopify Liquid, Tailwind CSS, Webpack 5
-- Tailwind CSS navigation menu
-- Personalized product recommendations
-- SMS program integration for increased retention
-
-### 🧢 **Melin Website Development**
-**Technologies:** Shopify Liquid, Tailwind CSS, Bloomreach, Attentive, FriendBuy
-- Social widgets and product reviews integration
-- Referral program implementation
-- Boosted customer engagement and acquisition
-
-### 🍷 **The Wine Club Development**
-**Technologies:** Shopify Liquid, JavaScript, PHP, MySQL
-- Responsive front-end optimization
-- Custom inventory management system
-- Improved conversion rates and user experience
-
-### 🔗 **Integration Projects**
-
-#### **Shopify-Marketo Connector**
-**Technologies:** PHP, MySQL, jQuery
-- Real-time customer and order data synchronization
-- Cart abandonment tracking
-- Bulk data synchronization capabilities
-
-#### **Headless Shopify Store**
-**Technologies:** ReactJS, Shopify GraphQL API
-- Modern app-like user experience
-- Improved page load speeds and flexibility
-- Complete customer account management
-
-#### **BigCommerce-HubSpot Integration**
-**Technologies:** PHP, MySQL, jQuery
-- Real-time and bulk data synchronization
-- Enhanced CRM data accuracy
-- Personalized marketing support
-
-### 🚀 **Custom Applications**
-
-#### **Slack Discount App**
-**Technologies:** Node.js, Firebase, Slack API
-- Bulk discount creation through Slack
-- Role-based discount code generation
-- Enhanced promotional agility
-
-#### **Card Save Alternative**
-- Secure credit card storage via Authorize.net
-- Improved customer convenience
-- Increased repeat purchase rates
-
-#### **Bulk Tag Management System**
-- Automated product categorization
-- Enhanced searchability
-- Streamlined e-commerce operations
 
 ## 🏆 Awards & Recognition
 - **🌟 Innovative Excellence Award** (2021-2022)
