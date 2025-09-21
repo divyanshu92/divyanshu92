@@ -52,19 +52,34 @@ Senior Technical Lead with 9+ years of expertise in eCommerce development, speci
 ## NOTABLE PROJECTS
 
 **Dice & Dare Game** | [Live Demo](https://divyanshudhiman.github.io/dice-and-dare/)  
-React Progressive Web Application with Bootstrap integration and localStorage implementation
+Interactive party game with dice rolling, dares, and position suggestions. Built with HTML5, CSS3, JavaScript, and Bootstrap
+
+**Budget Manager** | [Live Demo](https://divyanshudhiman.github.io/budget-manager/)  
+Personal finance tracker with 50/30/20 budgeting methodology. React, TypeScript, Tailwind CSS with Express.js backend
 
 **Gym Routine Tracker** | [Live Demo](https://divyanshudhiman.github.io/gym-routine-tracker/)  
 TypeScript React application featuring mobile-first design and session tracking capabilities
-
-**Budget Manager** | [Live Demo](https://divyanshudhiman.github.io/budget-manager/)  
-Full-stack finance tracking application with Express.js backend and 50/30/20 budgeting methodology
 
 **Maze Game** | [Live Demo](https://divyanshudhiman.github.io/maze-game/)  
 High-performance puzzle application utilizing pathfinding algorithms and React.memo optimization
 
 **Synology Downloader** | [Live Demo](https://divyanshudhiman.github.io/synology-downloader/)  
 Remote NAS management application with real-time status updates
+
+**Tic Tac Toe Game** | [Live Demo](https://divyanshudhiman.github.io/tic-tac-toe/)  
+Classic game implementation with React hooks and responsive design
+
+**Weather App** | [Live Demo](https://divyanshudhiman.github.io/weather-app/)  
+Real-time weather application with geolocation and API integration
+
+**Todo List Manager** | [Live Demo](https://divyanshudhiman.github.io/todo-manager/)  
+Task management application with localStorage persistence and drag-and-drop functionality
+
+**Calculator App** | [Live Demo](https://divyanshudhiman.github.io/calculator/)  
+Scientific calculator with advanced mathematical operations and responsive UI
+
+**Memory Card Game** | [Live Demo](https://divyanshudhiman.github.io/memory-game/)  
+Card matching game with multiple difficulty levels and score tracking
 
 ---
 
