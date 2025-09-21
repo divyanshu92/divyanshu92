@@ -51,13 +51,10 @@ Senior Technical Lead with 9+ years of expertise in eCommerce development, speci
 
 ## NOTABLE PROJECTS
 
-**Dice & Dare Game** | [Live Demo](https://divyanshudhiman.github.io/dice-and-dare/)  
-Interactive party game with dice rolling, dares, and position suggestions. Built with HTML5, CSS3, JavaScript, and Bootstrap
-
 **Budget Manager** | [Live Demo](https://divyanshudhiman.github.io/budget-manager/)  
 Personal finance tracker with 50/30/20 budgeting methodology. React, TypeScript, Tailwind CSS with Express.js backend
 
-**Gym Routine Tracker** | [Live Demo](https://divyanshudhiman.github.io/gym-routine-tracker/)  
+**Gym Routine Tracker** | [Live Demo](https://divyanshu92.github.io/gymroutine/)  
 TypeScript React application featuring mobile-first design and session tracking capabilities
 
 **Maze Game** | [Live Demo](https://divyanshudhiman.github.io/maze-game/)  
