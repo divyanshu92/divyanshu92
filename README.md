@@ -58,13 +58,13 @@ Senior Technical Lead with **9+ years** of expertise in eCommerce development, s
 
 ---
 
-## Featured Projects
+## Featured Fun Projects
 
-**🎲 Dice & Dare Game** - React PWA with Bootstrap, localStorage, GitHub Pages deployment  
-**🏋️ Gym Routine Tracker** - TypeScript React app, mobile-first design, session tracking  
-**💰 Budget Manager** - Full-stack finance tracker with Express.js backend, 50/30/20 budgeting  
-**🧩 Maze Game** - High-performance puzzle with pathfinding algorithms, React.memo optimization  
-**📥 Synology Downloader** - Remote NAS management tool with real-time updates
+**🎲 [Dice & Dare Game](https://divyanshudhiman.github.io/dice-and-dare/)** - React PWA with Bootstrap, localStorage, GitHub Pages deployment  
+**🏋️ [Gym Routine Tracker](https://divyanshudhiman.github.io/gym-routine-tracker/)** - TypeScript React app, mobile-first design, session tracking  
+**💰 [Budget Manager](https://divyanshudhiman.github.io/budget-manager/)** - Full-stack finance tracker with Express.js backend, 50/30/20 budgeting  
+**🧩 [Maze Game](https://divyanshudhiman.github.io/maze-game/)** - High-performance puzzle with pathfinding algorithms, React.memo optimization  
+**📥 [Synology Downloader](https://divyanshudhiman.github.io/synology-downloader/)** - Remote NAS management tool with real-time updates
 
 ---
 
