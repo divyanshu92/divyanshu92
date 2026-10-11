@@ -2,143 +2,151 @@
 ## Technical Lead & Enterprise E-Commerce Architect
 
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Location-Panchkula%2C%20India-0A66C2?style=flat-square" alt="Location" />
-    <img src="https://img.shields.io/badge/Experience-10%2B%20Years-28A745?style=flat-square" alt="Experience" />
-    <img src="https://img.shields.io/badge/Focus-Shopify%20Plus%20%7C%20Headless%20Commerce-FF6B35?style=flat-square" alt="Focus" />
-  </p>
+  <img src="https://img.shields.io/badge/Location-Panchkula%2C%20India-0A66C2?style=for-the-badge&logo=googlemaps" alt="Location" />
+  <img src="https://img.shields.io/badge/Experience-10%2B%20Years-28A745?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Focus-Shopify%20Plus%20%7C%20Headless%20Commerce-FF6B35?style=for-the-badge" alt="Focus" />
 </div>
 
-**📍 Panchkula, India**  
-**📞 +91-7015059682**  
-**✉️ ddivyanshu@gmail.com**  
-**🔗** [linkedin.com/in/divyanshu-dhiman](https://linkedin.com/in/divyanshu-dhiman)
+<p align="center">
+  <a href="mailto:ddivyanshu@gmail.com">ddivyanshu@gmail.com</a> •
+  <a href="tel:+917015059682">+91-7015059682</a> •
+  <a href="https://linkedin.com/in/divyanshu-dhiman" target="_blank">LinkedIn</a>
+</p>
 
 ---
 
-## Executive Summary
+## About Me
 
-Accomplished Technical Lead and E-Commerce Architect with 10+ years of end-to-end experience in architecting, engineering, and scaling mission-critical digital commerce ecosystems. Recognized for leading enterprise Shopify Plus transformations, headless storefront architectures, and complex integrations across Salesforce, Microsoft Dynamics 365, Conga CPQ, and MarTech platforms.
+Accomplished Technical Lead and E-Commerce Architect with 10+ years of hands-on experience designing, building, and scaling enterprise commerce ecosystems. I specialize in Shopify Plus architecture, headless storefront engineering, and complex B2B/B2C integrations spanning Salesforce, Microsoft Dynamics 365, Conga CPQ, ERP systems, and MarTech platforms.
 
-I specialize in building scalable commerce systems that improve conversion, optimize checkout experiences, and connect storefronts to enterprise backend systems with reliable automation and operational efficiency.
+My work sits at the intersection of commerce strategy, platform architecture, and engineering execution—helping brands improve conversion, streamline operations, and create premium digital experiences that perform at scale.
 
 ---
 
-## Core Competencies
+## Core Expertise
 
-- Shopify Plus Architecture & Custom App Development
-- Headless Commerce & Decoupled Storefronts
-- Frontend Engineering with React.js, Vue.js, JavaScript, and Liquid
-- Backend & Middleware Integration using Node.js, GraphQL, REST APIs, and Webhooks
-- Enterprise Integrations with Salesforce, D365, Conga CPQ, Zendesk, and ERP systems
-- CRO & Performance Optimization for mobile-first commerce experiences
-- Technical Leadership, Sprint Planning, Code Review Governance, and Mentorship
-- MarTech Ecosystem Design with Bloomreach, Attentive, Antavo, Marketo, and HubSpot
+- Shopify Plus & custom app development
+- Headless commerce & decoupled storefront architecture
+- React.js, Vue.js, JavaScript, Liquid, and modern frontend engineering
+- Node.js, GraphQL, REST APIs, webhooks, and middleware systems
+- Salesforce, Dynamics 365, Conga CPQ, Zendesk, and ERP integrations
+- CRO, checkout optimization, performance tuning, and mobile-first UX
+- Technical leadership, sprint planning, code review governance, mentoring
+- AI-driven commerce experiences with Bloomreach, Attentive, Antavo, and loyalty ecosystems
 
 ---
 
 ## Professional Experience
 
 ### Technical Lead
-Grazitti Interactive | Nov 2019 - Present
-- Lead a division of e-commerce engineers delivering enterprise Shopify Plus and BigCommerce initiatives.
-- Define architecture standards, sprint workflows, code review governance, and technical delivery roadmaps.
-- Architect multi-system integrations connecting Shopify Plus with Salesforce CRM, Microsoft Dynamics 365, and Conga CPQ.
-- Build headless storefronts using React.js and Shopify GraphQL APIs to improve web performance and conversion outcomes.
-- Partner with tier-1 MarTech vendors including Bloomreach, Attentive, and Antavo to deliver personalized experiences and loyalty systems.
+Grazitti Interactive • Nov 2019 – Present
+- Lead a distributed engineering team delivering enterprise Shopify Plus and BigCommerce solutions.
+- Define architecture standards, sprint workflows, technical roadmaps, and code review governance.
+- Architect end-to-end commerce integrations linking Shopify Plus with Salesforce, D365, Conga CPQ, and ERP systems.
+- Build headless storefronts using React.js and Shopify GraphQL APIs to improve speed, responsiveness, and conversion.
+- Deliver MarTech solutions with Bloomreach, Attentive, Antavo, and other ecosystem partners for personalization and customer retention.
 
 ### Shopify Developer
-Bytecode Technologies InfoLogics | Aug 2018 - Aug 2019
-- Built custom private Shopify apps and external integrations for catalog feeds, inventory synchronization, and order workflows.
-- Developed responsive, mobile-first Shopify themes with accessibility and performance optimization.
-- Integrated payment and shipping flows to reduce cart abandonment and improve global commerce operations.
+Bytecode Technologies InfoLogics • Aug 2018 – Aug 2019
+- Developed custom Shopify apps and integrations for real-time catalog feeds, inventory synchronization, and order processing.
+- Built responsive, mobile-first Shopify themes optimized for accessibility, conversion, and performance.
+- Integrated payment and shipping flows to reduce cart abandonment and improve international commerce operations.
 
 ### Web Developer
-Matrix InfoLogics | Jun 2015 - Aug 2018
-- Engineered scalable frontend and full-stack web applications using JavaScript, PHP, MySQL, HTML5, and SCSS.
-- Collaborated with design teams to translate wireframes into robust, cross-browser storefront experiences.
-- Improved performance through database optimization, asset minification, and structured frontend practices.
+Matrix InfoLogics • Jun 2015 – Aug 2018
+- Engineered high-performance web applications using JavaScript, PHP, MySQL, HTML5, and SCSS.
+- Translated wireframes into scalable, cross-browser storefront experiences.
+- Improved application efficiency through query optimization, asset minification, and clean frontend architecture.
 
 ---
 
-## Technical Toolkit
+## Technical Stack
 
 ### E-Commerce & Headless Architecture
-Shopify, Shopify Plus, Liquid, Shopify Storefront & Admin GraphQL APIs, Headless Commerce, BigCommerce, Custom App Development
+Shopify, Shopify Plus, Liquid, Shopify Storefront GraphQL API, Shopify Admin API, Headless Commerce, BigCommerce, Custom App Development
 
-### Frontend Engineering
+### Frontend
 JavaScript (ES6+), React.js, Vue.js, HTML5, CSS3, SCSS, Tailwind CSS, Webpack 5, Gulp, DOM Performance Optimization
 
-### Backend, Middleware & Cloud
-Node.js, PHP, RESTful Web Services, GraphQL, Webhooks, MySQL, Firebase, AWS Cloud Infrastructure
+### Backend & Middleware
+Node.js, PHP, RESTful APIs, GraphQL, Webhooks, MySQL, Firebase, AWS Cloud Infrastructure
 
-### Enterprise & MarTech Integrations
+### Integrations & MarTech
 Salesforce CRM, Microsoft Dynamics 365, Conga CPQ, Bloomreach AI Search, Marketo, HubSpot, Zendesk, Attentive SMS, Reviews.io, Antavo Loyalty, Authorize.net, Stripe
 
-### Engineering Leadership
-Solutions Architecture, Sprint & Capacity Planning, Agile/Scrum, Code Review Governance, CRO, CI/CD, Technical Mentorship
+### Leadership & Delivery
+Solutions Architecture, Agile/Scrum, Sprint Planning, Capacity Planning, CI/CD, Technical Mentorship, CRO, Code Review Governance
 
 ---
 
-## Project Portfolio
+## Flagship Projects
 
-### FranklinCovey | Enterprise Multi-System Integration
-Tech Stack: Shopify Plus, Salesforce CRM, Microsoft Dynamics 365, Conga CPQ, Zendesk API, Node.js, GraphQL
-- Led the technical architecture for a complex B2B/B2C commerce integration spanning Shopify Plus, Salesforce, D365, and Conga CPQ.
-- Designed automated pricing, quote-to-cash, and fulfillment workflows connecting ERP and commerce systems.
-- Built customer portal controls and support automation for efficient service fulfillment and order tracking.
+### FranklinCovey — Enterprise Multi-System Commerce Integration
+Tech Stack: Shopify Plus, Salesforce CRM, Microsoft Dynamics 365, Conga CPQ, Node.js, GraphQL
+- Led the architecture for a complex B2B/B2C integration connecting Shopify Plus with enterprise systems and sales workflows.
+- Automated pricing, quote-to-cash, and fulfillment orchestration across commerce and ERP layers.
+- Improved operational efficiency by removing manual order reconciliation and enabling customer-specific portal experiences.
 
-### Olukai | Premium Footwear Commerce Platform
-Tech Stack: Shopify Plus, Liquid, JavaScript (ES6+), SCSS, Tailwind CSS, Bloomreach AI, Reviews.io, Antavo
-- Delivered a high-converting, mobile-first storefront with modular theme architecture and scalable frontend patterns.
-- Integrated AI-powered search, visual merchandising, and loyalty mechanics to improve user engagement and conversion.
-- Optimized performance and UX with strong mobile Lighthouse scores and reduced friction in cart and checkout flows.
+### Olukai — Premium Footwear Commerce Experience
+Tech Stack: Shopify Plus, Liquid, JavaScript, SCSS, Tailwind CSS, Bloomreach AI, Antavo
+- Designed and implemented a premium, mobile-first storefront optimized for conversion and performance.
+- Integrated AI-powered search, merchandising, and loyalty features to elevate engagement and retention.
+- Improved Lighthouse scores and checkout experience using modern frontend structure and asset optimization.
 
-### Kaenon | Performance Eyewear Relaunch
-Tech Stack: Shopify Plus, JavaScript, Liquid, Tailwind CSS, Webpack, Authorize.net
-- Rebuilt the storefront for a high-performance optics brand focused on storytelling, personalization, and conversion uplift.
-- Implemented interactive lens selection, visual product previews, and accessible checkout experiences.
-- Reduced JavaScript bundle size by 42% and improved page performance using optimized bundling and asset strategy.
+### Kaenon — Performance Eyewear Relaunch
+Tech Stack: Shopify Plus, Liquid, Tailwind CSS, Webpack, Authorize.net
+- Rebuilt a high-performance storefront focused on storytelling, personalization, and conversion uplift.
+- Built interactive lens selection and product preview experiences that reduced friction in buying decisions.
+- Reduced script payloads and improved page-speed metrics through optimized bundling and frontend strategies.
 
-### Roark | Bespoke Apparel Storefront
+### Roark — Editorial Apparel Storefront & Omnichannel Growth
 Tech Stack: Shopify Plus, Liquid, SCSS, JavaScript, Attentive SMS, FriendBuy, Yotpo
-- Built custom editorial storefront experiences, dynamic navigation, and collection filtering for large apparel catalogs.
-- Integrated referral and SMS acquisition loops to improve community driving and revenue growth.
-- Created custom bundle-building workflows enabling multi-item product kits with real-time inventory logic.
+- Delivered custom editorial navigation, product discovery, and bundle-building features to support large catalog experiences.
+- Integrated referral and SMS acquisition loops for stronger customer engagement and growth acquisition.
+- Built flexible merchandising and inventory logic to support scalable omnichannel commerce experiences.
 
-### Headless Shopify Decoupled Architecture
-Tech Stack: React.js, Shopify Storefront GraphQL API, Node.js, Webpack, Tailwind CSS
-- Designed and built a modern headless storefront replacing legacy monolithic theme rendering.
-- Improved application responsiveness with client-side routing, instant product variant switching, and caching optimization.
-- Reduced payload size by up to 60% using GraphQL-driven queries and optimized front-end architecture.
+### Headless Shopify Architecture
+Tech Stack: React.js, Shopify Storefront GraphQL API, Node.js, Tailwind CSS
+- Built a modern headless commerce storefront replacing legacy monolithic rendering patterns.
+- Reduced payload size and improved UX through GraphQL querying, client-side routing, and faster variant switching.
+- Enabled near-instant storefront interactions with a decoupled architecture optimized for performance.
 
 ---
 
-## Notable Personal Projects
+## Featured Personal Projects
 
-- [Budget Manager](https://divyanshudhiman.github.io/budget-manager/) — Personal finance tracker based on the 50/30/20 budgeting model.
-- [Gym Routine Tracker](https://divyanshu92.github.io/gymroutine/) — Mobile-first routine planner with session tracking.
-- [Maze Game](https://divyanshudhiman.github.io/maze-game/) — React-based puzzle game with optimized pathfinding logic.
-- [Synology Downloader](https://divyanshudhiman.github.io/synology-downloader/) — NAS utility for remote file management.
-- [Tic Tac Toe Game](https://divyanshudhiman.github.io/tic-tac-toe/) — Classic game built with React hooks.
-- [Weather App](https://divyanshudhiman.github.io/weather-app/) — Geo-aware weather dashboard with API integration.
-- [Todo List Manager](https://divyanshudhiman.github.io/todo-manager/) — Task manager with persistence and drag-and-drop interactions.
-- [Calculator App](https://divyanshudhiman.github.io/calculator/) — Feature-rich scientific calculator.
-- [Memory Card Game](https://divyanshudhiman.github.io/memory-game/) — Responsive card-matching game with multiple difficulty levels.
+- [Budget Manager](https://divyanshudhiman.github.io/budget-manager/) — A personal finance dashboard based on the 50/30/20 budgeting philosophy.
+- [Gym Routine Tracker](https://divyanshu92.github.io/gymroutine/) — A mobile-first fitness tracking app with session progression views.
+- [Maze Game](https://divyanshudhiman.github.io/maze-game/) — A React-based puzzle experience using performance-conscious logic.
+- [Synology Downloader](https://divyanshudhiman.github.io/synology-downloader/) — A utility app for remote NAS management and media downloads.
+- [Weather App](https://divyanshudhiman.github.io/weather-app/) — A geolocation-aware weather dashboard with live API integration.
+- [Todo List Manager](https://divyanshudhiman.github.io/todo-manager/) — A task manager with persistent local storage and interactive controls.
 
 ---
 
 ## Education
 
 **Bachelor of Technology in Computer Science**  
-Kurukshetra University | 2014
+Kurukshetra University • 2014
 
 ---
 
-## Highlights
+## Why Work With Me
 
-- 10+ years of hands-on commerce engineering and integration leadership
-- Delivered revenue-impacting storefronts and enterprise commerce systems
-- Strong track record of improving Core Web Vitals, conversion metrics, and checkout efficiency
-- Experienced in both B2B and B2C commerce transformation initiatives
-- Skilled in combining business strategy, technical architecture, and execution delivery
+- 10+ years of commerce engineering and enterprise integration experience
+- Proven ability to connect storefronts with complex backend systems
+- Strong record of improving conversion, performance, and checkout efficiency
+- Trusted to lead cross-functional teams and translate business goals into scalable architecture
+- Skilled in both B2B and B2C commerce transformation initiatives
+
+---
+
+## Let’s Build Something Meaningful
+
+I’m available for Shopify Plus consulting, headless commerce architecture, enterprise integration projects, and performance-focused commerce transformation work.
+
+If you're building a premium digital commerce experience or modernizing an existing storefront ecosystem, let’s connect.
+
+📩 [ddivyanshu@gmail.com](mailto:ddivyanshu@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/divyanshu-dhiman)
+
