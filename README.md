@@ -32,7 +32,19 @@ My work sits at the intersection of commerce strategy, platform architecture, an
 - Salesforce, Dynamics 365, Conga CPQ, Zendesk, and ERP integrations
 - CRO, checkout optimization, performance tuning, and mobile-first UX
 - Technical leadership, sprint planning, code review governance, mentoring
-- AI-driven commerce experiences with Bloomreach, Attentive, Antavo, and loyalty ecosystems
+- AI-enabled commerce workflows, customer support automation, chatbot experiences, and personalization strategy
+- AI-assisted merchandising, loyalty experiences, and operational productivity within commerce ecosystems
+
+---
+
+## AI & Intelligent Commerce
+
+I bring AI into commerce as a practical business capability—connecting intelligent support workflows, personalization layers, and operational automation to customer experience and revenue growth.
+
+- AI-powered customer support flows and chatbot experiences for commerce teams
+- Personalization-driven merchandising and customer journey optimization
+- AI-assisted workflow automation to reduce manual support and operational tasks
+- Integration of AI features into Shopify and enterprise commerce ecosystems without disrupting core commerce operations
 
 ---
 
@@ -44,7 +56,8 @@ Grazitti Interactive • Nov 2019 – Present
 - Define architecture standards, sprint workflows, technical roadmaps, and code review governance.
 - Architect end-to-end commerce integrations linking Shopify Plus with Salesforce, D365, Conga CPQ, and ERP systems.
 - Build headless storefronts using React.js and Shopify GraphQL APIs to improve speed, responsiveness, and conversion.
-- Deliver MarTech solutions with Bloomreach, Attentive, Antavo, and other ecosystem partners for personalization and customer retention.
+- Design AI-enabled customer support and personalization workflows to improve service efficiency and digital engagement.
+- Deliver MarTech solutions with Bloomreach, Attentive, Antavo, and other ecosystem partners for personalization, loyalty, and retention.
 
 ### Shopify Developer
 Bytecode Technologies InfoLogics • Aug 2018 – Aug 2019
